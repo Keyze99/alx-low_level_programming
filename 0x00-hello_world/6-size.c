@@ -1,4 +1,9 @@
 #include<stdio.h>
+/**
+ 
+main - this function outputs the size of variables
+Return: Always 0 (Success)
+*/
 int main(void)
 {
 	char a;
