@@ -2,7 +2,7 @@
 /**
  * rev_string - reverses a string
  * _putchar - print each character
- * @s: char to check
+ * @s: char to checkvi5-rev_string.c
  * Return: void
  */
 void rev_string(char *s)
